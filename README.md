@@ -9,7 +9,7 @@ I made this project to make it easy to use the [SpaceApi](https://spaceapi.io/) 
 # Steps 
 
 ## Clone code
-Download this project or git clone
+[Download](https://github.com/zeno4ever/spaceapi-ESP32-M5StickC/archive/refs/heads/main.zip) this project or clone this git.
 
 ## Generate a key
 First step is to generate a 'key' that only you know and is used as an authorization. You can generate a key with you favorite password manager or a site like [random.org](https://www.random.org/strings/?num=1&len=20&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new). Make your key long enough (20 chars or more). You will need this key in the Arduino step AND php step.
