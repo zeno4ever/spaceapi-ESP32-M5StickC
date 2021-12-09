@@ -1,4 +1,7 @@
 # SpaceApi switch with a Stack M5 Stick (or ESP32)
+
+![SpaceAPI M5 StickC](./doc/m5stack_open.jpg)
+
 I made this project to make it easy to use the [SpaceApi](https://spaceapi.io/) and use a open/close switch in you own local hacker/maker space. In the end it got more complex then I hoped for. If you have any suggestions to make this project better or easier to implement let me know.
 
 ## What you need
